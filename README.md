@@ -1,1 +1,1 @@
-# practice-data-structure
+# fun-with-data-structure
